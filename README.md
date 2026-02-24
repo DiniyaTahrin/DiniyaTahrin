@@ -45,7 +45,7 @@ Currently, I am focusing on building **robust backend systems and APIs**.
 ## 📫 Contact Me
 
 - Email: tahrindiniya@gmail.com 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/diniya-tahrin/)  
+- LinkedIn: [Profile](https://www.linkedin.com/in/diniya-tahrin/)  
 
 ---
 
