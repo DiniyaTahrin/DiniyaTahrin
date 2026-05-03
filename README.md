@@ -8,7 +8,7 @@ Alongside my research interest, I also build **backend systems and APIs** for pr
 
 ---
 
-## 🧠 Research Focus (Primary Highlight)
+## 🧠 Research Focus
 
 ### Thesis: Leveraging State-Space Models for Temporal Analysis in Deepfake Detection (Team Project)
 - Conducted research on **multimodal deep learning models** for detecting deepfakes using **visual + audio streams**
